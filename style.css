@@ -212,7 +212,6 @@ body {
 }
 
 .wrapper-destination__paragraph {
-	outline: solid red;
 	height: 17rem;
 	overflow: auto;
 }
@@ -595,7 +594,7 @@ body {
 	}
 }
 
-@media (max-width: 573px) {
+@media (max-width: 720px) {
 	html {
 		font-size: 9px;
 	}

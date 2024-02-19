@@ -448,7 +448,7 @@ body {
 	}
 
 	.container-home-page {
-		background-image: url("/space-tourism-website-main/starter-code/assets/home/background-home-tablet.jpg");
+		background-image: url("./assets/home/background-home-tablet.jpg");
 		display: grid;
 		justify-content: center;
 		background-repeat: no-repeat;
@@ -666,7 +666,7 @@ body {
 	}
 
 	.container-home-page {
-		background-image: url("/space-tourism-website-main/starter-code/assets/home/background-home-mobile.jpg");
+		background-image: url("./assets/home/background-home-mobile.jpg");
 		display: grid;
 		justify-content: center;
 		background-repeat: no-repeat;
